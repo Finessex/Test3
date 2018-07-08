@@ -1,0 +1,9 @@
+{
+    "dsn" : "https://4ed8e387a746431d9db1d02ed7e1604d:3efc4930763a4f6ebc7ec4e91577cb12@sentry.io/1239249",
+    "environment" : null,
+    "ignore" : [],
+    "level" : "ERROR",
+    "name" : null,
+    "ssl" : true,
+    "tags" : {}
+}

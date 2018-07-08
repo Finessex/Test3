@@ -1,0 +1,7 @@
+{
+    "del" : [],
+    "delay" : 60,
+    "games" : [
+        "prefix|!"
+    ]
+}

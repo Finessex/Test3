@@ -1,0 +1,12 @@
+{
+    "amount" : 5,
+    "embedAuthor" : false,
+    "embedColor" : "0xFFFFFF",
+    "embedFooter" : "This is your footer!",
+    "embedTitle" : "This is your title!",
+    "embedToggle" : false,
+    "helpMessage" : [
+        "Meep, to change help message, say `[p]sethelp setmsg`"
+    ],
+    "helpPrivate" : false
+}
